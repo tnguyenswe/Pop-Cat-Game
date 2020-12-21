@@ -1,0 +1,5 @@
+I've been following this app series to create this game: https://www.youtube.com/watch?v=aTT4GfojkHA
+
+As of 12/20/2020 (Latest revision), we have finished creating the background and the text for the play screen.
+
+We've finished part 1/6 of the series, so next up is part 2.
